@@ -24,6 +24,10 @@ This project is a lightweight AI writing app that runs **100% locally** using th
 - Lightweight and fast
 
 
+# Output
+![Screenshot 2025-06-16 192440](https://github.com/user-attachments/assets/7abd1027-ad57-4474-8383-adc1bd9ddd06)
+
+
 ## 🛠 How to Run Locally
 
 ### 1. Install [Ollama](https://ollama.com/download)
